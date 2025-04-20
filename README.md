@@ -27,3 +27,28 @@ A simple and responsive image resizer built using **HTML**, **CSS**, and **JavaS
    ```bash
    git clone https://github.comnihalahmed07/Resize-and-Compress-Images.git
    cd Resize-and-Compress-Images
+```
+
+2. **Open index.html in your browser**
+   
+```bash
+open index.html
+```
+Or simply double-click on the file.
+
+3. **Upload and Resize**
+
+- Click the upload box to choose an image.
+- Enter new dimensions.
+- Lock aspect ratio (optional).
+- Reduce quality (optional).
+- Click Download Image to save.
+
+4. **🌐 Live Demo**
+   
+[Check it out here!](https://neo-resize-compress.netlify.app/)
+
+5. **🧑‍💻 Developer**
+
+Built with ❤️ by [Nihal Ahmed](https://nihalahmed.in/)
+
